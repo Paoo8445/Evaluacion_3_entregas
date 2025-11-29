@@ -1,0 +1,28 @@
+# Python
+api_paquetes/__pycache__/
+api_paquetes/venv/
+
+# FastAPI uploads (keeping folder only)
+api_paquetes/uploads/*
+
+# Flutter build
+app_entregas/build/
+app_entregas/.dart_tool/
+app_entregas/.idea/
+app_entregas/windows/
+app_entregas/linux/
+app_entregas/macos/
+app_entregas/ios/
+app_entregas/android/
+
+# Images and large files
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.zip
+*.rar
+
+# OS files
+.DS_Store
+Thumbs.db
